@@ -1,0 +1,22 @@
+{
+    "name": "Xbox Shopper",
+    "short_name": "Xbox Shopper",
+    "description": "Xbox Shopper",
+    "icons": [
+        {
+            "src": "icons/xbox-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "icons/xbox-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "background_color": "#000",
+    "start_url": "./",
+    "display": "standalone",
+    "theme_color": "#000",
+    "orientation": "portrait"
+}
